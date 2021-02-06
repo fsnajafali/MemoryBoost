@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712768132022",
+    "project_id": "memoryboost-d1f27",
+    "storage_bucket": "memoryboost-d1f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712768132022:android:502c806749d0d51044a717",
+        "android_client_info": {
+          "package_name": "com.fsnajafali.memoryboost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712768132022-bob4l4qdc7af1c7b4ihiu0rbh51mq9nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_MJn7UmWR3Qeg2sAz7P2Fm7YrVIggdwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712768132022-bob4l4qdc7af1c7b4ihiu0rbh51mq9nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
