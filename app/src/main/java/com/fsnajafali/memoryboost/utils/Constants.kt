@@ -9,7 +9,7 @@ val DEFAULT_ICONS = listOf(
     R.drawable.ic_fish2,
     R.drawable.ic_fish3,
     R.drawable.ic_fish4,
-    R.drawable.ic_fish5,
+    R.drawable.ic_fish1,
     R.drawable.ic_fish6,
     R.drawable.ic_fish7,
     R.drawable.ic_fish8,

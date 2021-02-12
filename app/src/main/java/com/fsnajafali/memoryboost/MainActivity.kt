@@ -27,6 +27,7 @@ import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 import com.squareup.picasso.Picasso
+import kotlinx.android.synthetic.main.activity_create.*
 
 class MainActivity : AppCompatActivity()
 {
@@ -195,7 +196,7 @@ class MainActivity : AppCompatActivity()
             if (userImageList?.images == null)
             {
                 Log.e(TAG, "Invalid custom game data from Firestore")
-                Snackbar.make(clRoot, "Sorry, we couldn't find any such game, '$gameName'", Snackbar.LENGTH_LONG).show()
+                Snackbar.make(clRoot, "Sorry, we couldn't find such game.", Snackbar.LENGTH_LONG).show()
                 return@addOnSuccessListener
             }
             val numCards = userImageList.images.size * 2
