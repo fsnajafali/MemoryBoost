@@ -2,7 +2,14 @@
 
 Author: [Fatemah Najafali](https://www.linkedin.com/in/fatemahnajafali)
 
+An open-source Android memory game. Play with the default icons, or play a custom game using photos from your phone. You can also download memory boards made by others by entering the game name.
+
 [![](https://github.com/fsnajafali/MemoryBoost/blob/master/app/src/main/googleplayicon.jpg)](https://play.google.com/store/apps/details?id=com.fsnajafali.memoryboost)
+
+#### Open-source libraries used:
+
+- [Picasso](https://github.com/square/picasso)
+- [Confetti](https://github.com/jinatonic/confetti)
 
 ## License
 
